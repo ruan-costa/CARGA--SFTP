@@ -40,6 +40,6 @@ Caminho Remoto: Caminho da pasta no servidor SFTP onde o arquivo será armazenad
 📧 Contato
 Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato:
 
-Telefone: (81) 98761-4812
+Telefone: (81) 99184-4940 / 98761-4812
 
 Este projeto facilita o upload de arquivos para servidores SFTP, proporcionando um processo automatizado e eficiente! 🎉🚀
